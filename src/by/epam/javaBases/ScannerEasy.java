@@ -9,5 +9,6 @@ public class ScannerEasy {
         String name = scanner.next();
         System.out.println("Hello, " + name);
         scanner.close();
+
     }
 }
